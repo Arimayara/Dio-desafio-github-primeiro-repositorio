@@ -1,1 +1,17 @@
 primeiros trabalhos em Git e Github
+
+Passo a passo Git Bash
+
+cd + "nome da pasta" - > Para acessar uma pasta
+
+git clone + link -> clonar meu repositorio( link clonado no gitHurb no "Code -> HTTPS")
+
+git status - > verificar os status da pasta
+
+git add . -> adiciona uma alteração no diretório ativo à área de staging. 
+Ele diz ao Git que você quer incluir atualizações a um arquivo específico no próximo commit
+
+git commit -m "Título"
+
+git push origin main -> é usado para enviar o conteúdo do repositório local para um repositório remoto. 
+
